@@ -15,6 +15,8 @@ A modern web application that fetches YouTube video metadata and generates AI-po
 
 ![App Screenshot](screenshot.png)
 
+📝 **Read the full story:** [Building a YouTube Title Generator with AI - Medium Article](https://medium.com/@elnala24/project-youtube-title-generator-with-ai-ts-4e5837df6423)
+
 ## Tech Stack
 
 - **Frontend**: TypeScript, HTML5, CSS3
